@@ -1,7 +1,12 @@
 # CHERGROUND Web POS
 
 ## Introduction
-관리자가 상품 정보 및 카테고리를 추가하고, 상품을 장바구니에 담아 결제할 수 있는 Web POS 사이트 구현 프로젝트
+관리자가 상품 정보 및 카테고리를 추가하고, 상품을 장바구니에 담아 결제할 수 있는 Web POS 사이트 구현 프로젝트로,
+회사 CHERGROUND에서 1개월 동안 인턴으로 일하면서 진행한 프로젝트다.
+
+사이트의 기획과 디자인은 기업 협업을 진행한 [CHERGROUND](https://www.cherground.com/company)에서 Zeplin으로 제공해주셨으며,
+클린 아키텍쳐를 준수하기 위해 MVVM 모델을 적용하였습니다.
+
 - 기간: 2021. 11. 01. ~ 2021. 11. 26.
 - [Backend GitHub](https://github.com/cheesepuff90/CHERground_project)
 - Zeplin에 명시 되어있는 기획과 디자인을 보고 구현하였습니다.
